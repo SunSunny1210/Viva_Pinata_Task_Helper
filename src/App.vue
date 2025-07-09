@@ -4,9 +4,19 @@
 <template>
   <div class="background"></div>
   <div class="filter"></div>
+  <div class="body">
+    <RouterView></RouterView>
+  </div>
 </template>
 
 <style scoped>
+  .body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
   .background {
     position: fixed;
     height: 100vh;
