@@ -33,7 +33,7 @@
       justify-content: center;
       align-items: center;
       gap: 2rem;
-      background-color: rgba(255, 246, 246, 0.525);
+      background-color: var(--white-blur);
       border-radius: 120px 120px;
 
       img {

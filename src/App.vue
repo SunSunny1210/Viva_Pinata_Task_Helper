@@ -1,7 +1,10 @@
 <script setup>
+import Navbar from './components/Navbar.vue';
+
 </script>
 
 <template>
+  <Navbar></Navbar>
   <div class="background"></div>
   <div class="filter"></div>
   <div class="body">

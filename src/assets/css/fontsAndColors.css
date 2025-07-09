@@ -1,5 +1,7 @@
 :root {
     --h1: 3.5rem;
     --p-normal-size: 1.2rem;
-    --radius: 12px 12px;
+    --radius: 25px 25px;
+    --white-blur: rgba(255, 246, 246, 0.525);
+    --dark-violet: rgb(101, 37, 161);
 }
